@@ -15,8 +15,7 @@ public class Smurf {
 
 	private String name;
 
-	Smurf(String name) {
-		this.name = name;
+	Smurf() {
 	}
 
 	public String getName() {
